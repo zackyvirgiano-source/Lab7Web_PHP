@@ -139,3 +139,29 @@ Program menggunakan metode POST untuk mengirim data, melakukan validasi di sisi 
 
 
 **Pemrograman Web - Praktikum 7**
+
+**Pertanyaan Evaluasi**
+
+1. Apa perbedaan pemrosesan client-side dan server-side?
+Client-side adalah pemrosesan data yang dilakukan di browser pengguna, sedangkan server-side adalah pemrosesan data yang dilakukan di server.
+
+2. Mengapa file PHP harus dijalankan melalui web server?
+Karena PHP merupakan bahasa pemrograman server-side yang membutuhkan web server untuk memproses kode PHP dan menampilkan hasilnya ke browser.
+
+3. Apa fungsi tanda $ pada variabel PHP?
+Tanda $ digunakan untuk menandai atau mendefinisikan sebuah variabel dalam PHP.
+
+4. Apa perbedaan metode GET dan POST?
+GET mengirimkan data melalui URL, sedangkan POST mengirimkan data melalui bagian body HTTP sehingga data tidak terlihat langsung di URL.
+
+5. Mengapa input pengguna perlu divalidasi di sisi server?
+Agar data yang masuk sesuai dengan aturan, mencegah kesalahan, dan menghindari serangan seperti SQL Injection.
+
+6. Apa fungsi htmlspecialchars() ketika menampilkan data dari form?
+Untuk mengubah karakter khusus HTML menjadi bentuk aman sehingga mencegah serangan XSS (Cross-Site Scripting).
+
+7. Apa manfaat penggunaan function dalam program PHP?
+Untuk membuat kode lebih rapi, mengurangi pengulangan kode, mempermudah pemeliharaan, dan membuat program lebih mudah dipahami.
+
+
+
