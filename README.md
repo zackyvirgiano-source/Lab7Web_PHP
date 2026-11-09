@@ -1,8 +1,8 @@
 # PRAKTIKUM 7
 
 ### IDENTITAS MAHASISWA
-- Nama: Fachmi Amrullah
-- NIM: [312510246]
+- Nama: Muhammad Zacky Virgiano
+- NIM: [312510349]
 - Kelas: [I251B]
 - Mata Kuliah: Pemrograman Web
 
@@ -57,8 +57,8 @@ Pada latihan pertama, dilakukan pengujian untuk menjalankan kode PHP melalui ser
 
 **Screenshot:**
 
-<img width="751" height="302" alt="Screenshot 2026-11-09 150812" src="https://github.com/user-attachments/assets/a15e84fa-d21f-4233-bd45-38bb04de33e4" />
-<img width="681" height="163" alt="Screenshot 2026-11-09 150819" src="https://github.com/user-attachments/assets/e67d336d-5749-49f6-9a66-561a6ececb55" />
+<img width="1343" height="366" alt="image" src="https://github.com/user-attachments/assets/346e02f4-193c-42a7-b66b-97ecb8919f49" />
+<img width="829" height="258" alt="image" src="https://github.com/user-attachments/assets/216897c1-bbbc-498d-a24e-27c8769a0ccf" />
 
 
 
@@ -68,8 +68,8 @@ Pada latihan kedua, digunakan variabel untuk menyimpan data mahasiswa dan nilai 
 
 **Screenshot:**
 
-<img width="652" height="417" alt="Screenshot 2026-11-09 150833" src="https://github.com/user-attachments/assets/005a1ef8-6bf5-4ec5-815c-7b8abe0e7621" />
-<img width="507" height="80" alt="Screenshot 2026-11-09 150842" src="https://github.com/user-attachments/assets/1d8c7fbd-0e5b-4f71-a081-576ea29fde3f" />
+<img width="1260" height="524" alt="image" src="https://github.com/user-attachments/assets/0a5f1137-dfdd-4eca-bfaa-c8f6a143c6ca" />
+<img width="922" height="95" alt="image" src="https://github.com/user-attachments/assets/9822b70a-dd45-47be-b8ba-3f652d5413ff" />
 
 
 ### 3. Latihan 3 - Perulangan dan Array
@@ -78,8 +78,8 @@ Pada latihan ketiga, digunakan array untuk menyimpan beberapa nama mahasiswa. Pe
 
 **Screenshot:**
 
-<img width="560" height="180" alt="Screenshot 2026-11-09 151054" src="https://github.com/user-attachments/assets/5474a6bf-e3aa-4c32-8149-841b507b9a1d" />
-<img width="855" height="152" alt="Screenshot 2026-11-09 151101" src="https://github.com/user-attachments/assets/130313be-f7a4-4f3e-ba4c-df62ee67057e" />
+<img width="981" height="259" alt="image" src="https://github.com/user-attachments/assets/e98bc3bb-bf20-481d-8d54-4de456cb1322" />
+<img width="857" height="169" alt="image" src="https://github.com/user-attachments/assets/99b6267d-bc31-41ef-8c2d-70b22f72d83a" />
 
 
 ### 4. Latihan 4 - Function
@@ -88,8 +88,8 @@ Pada latihan keempat, dibuat function untuk menghitung harga setelah diskon. Fun
 
 **Screenshot:**
 
-<img width="676" height="200" alt="Screenshot 2026-11-09 151116" src="https://github.com/user-attachments/assets/13964fb8-461c-48a1-81c8-e1f953cd3426" />
-<img width="615" height="32" alt="Screenshot 2026-11-09 151128" src="https://github.com/user-attachments/assets/06fcd3a0-38d9-4562-bd5e-ce0348eb6634" />
+<img width="1062" height="243" alt="image" src="https://github.com/user-attachments/assets/695ae27f-a62a-4ae1-8d9d-4021961fbddd" />
+<img width="723" height="36" alt="image" src="https://github.com/user-attachments/assets/f2751334-b537-47e4-bccd-e091da65a0bf" />
 
 
 ### 5. Latihan 5 - Pemrosesan Form GET
@@ -98,8 +98,8 @@ Pada latihan kelima, dibuat form pencarian sederhana menggunakan metode GET. Dat
 
 **Screenshot:**
 
-<img width="688" height="277" alt="Screenshot 2026-11-09 151220" src="https://github.com/user-attachments/assets/1b8a0749-4b8e-4880-b1b0-dc93c9f679f3" />
-<img width="446" height="45" alt="Screenshot 2026-11-09 151226" src="https://github.com/user-attachments/assets/93223997-cd3f-4d09-9e43-daae8ac95b07" />
+<img width="1028" height="308" alt="image" src="https://github.com/user-attachments/assets/7852894f-7158-4999-b262-ddc7349b38b1" />
+<img width="763" height="50" alt="image" src="https://github.com/user-attachments/assets/252ddd7c-75ec-48a2-b317-61e9665798be" />
 
 
 ### 6. Latihan 6 - Pemrosesan Form POST
@@ -108,8 +108,8 @@ Pada latihan keenam, dibuat form data mahasiswa yang berisi nama dan program stu
 
 **Screenshot:**
 
-<img width="680" height="380" alt="Screenshot 2026-11-09 151629" src="https://github.com/user-attachments/assets/fe69afe0-af30-4855-9897-c33eb10c4a1f" />
-<img width="743" height="26" alt="Screenshot 2026-11-09 151646" src="https://github.com/user-attachments/assets/fd099e80-75de-46ad-8fda-9da0acccee97" />
+<img width="1330" height="549" alt="image" src="https://github.com/user-attachments/assets/1db21f9e-307e-4742-89ef-15f98963ce22" />
+<img width="976" height="28" alt="image" src="https://github.com/user-attachments/assets/edb39d2c-9f60-48e9-9dbb-31768dde76d0" />
 
 
 ### 7. Latihan 7 - Pengolahan Data Sederhana
@@ -118,8 +118,8 @@ Pada latihan ketujuh, dibuat form transaksi yang menerima nama barang, harga, da
 
 **Screenshot:**
 
-<img width="782" height="537" alt="Screenshot 2026-11-09 151705" src="https://github.com/user-attachments/assets/1d24d80e-3564-46f9-92ee-2a63969fcac8" />
-<img width="921" height="22" alt="Screenshot 2026-11-09 151716" src="https://github.com/user-attachments/assets/c3040d42-da9b-4aa7-bbd1-e6fee99fcec6" />
+<img width="1418" height="837" alt="image" src="https://github.com/user-attachments/assets/33c42223-02f8-49b9-9a7d-0e258c6048cc" />
+<img width="1001" height="48" alt="image" src="https://github.com/user-attachments/assets/3f95c2cf-c530-4d79-bab6-3a6f502815a9" />
 
 
 ### 8. Mini Project - Formulir Data Mahasiswa
@@ -130,11 +130,12 @@ Program menggunakan metode POST untuk mengirim data, melakukan validasi di sisi 
 
 **Screenshot:**
 
-<img width="582" height="942" alt="Screenshot 2026-11-09 151928" src="https://github.com/user-attachments/assets/ac9a85ba-2841-4be1-9796-cb5a7bb0b7df" />
-<img width="450" height="822" alt="Screenshot 2026-11-09 151944" src="https://github.com/user-attachments/assets/6884671d-9cc9-40e3-ad8d-5c354eb6f407" />
-<img width="612" height="970" alt="Screenshot 2026-11-09 152007" src="https://github.com/user-attachments/assets/ec617232-4bb7-428c-b234-9760f7d16182" />
-<img width="676" height="112" alt="Screenshot 2026-11-09 152017" src="https://github.com/user-attachments/assets/b7fc7552-af36-4bb1-aab5-c5bacf1f22d6" />
-<img width="540" height="418" alt="Screenshot 2026-11-09 152029" src="https://github.com/user-attachments/assets/f4725973-1e69-4e01-8ef2-075ae1ec416b" />
+<img width="1455" height="792" alt="image" src="https://github.com/user-attachments/assets/41a0f22a-cbbd-4578-83ea-0fd12491b7bd" />
+<img width="1435" height="769" alt="image" src="https://github.com/user-attachments/assets/f83c3adb-fbb4-47d4-950f-7dec06977bc3" />
+<img width="1465" height="810" alt="image" src="https://github.com/user-attachments/assets/4cce369c-9dab-4d1c-b504-b7f086963c09" />
+<img width="1339" height="649" alt="image" src="https://github.com/user-attachments/assets/b6f0a875-f558-4a36-ac68-f9e9180a789e" />
+<img width="1373" height="363" alt="image" src="https://github.com/user-attachments/assets/2feb13e3-1b0b-440c-b5a9-2e2e230d0557" />
+<img width="1083" height="454" alt="image" src="https://github.com/user-attachments/assets/aa4c712e-4cb5-477d-8fc8-4bcc9a3ff827" />
 
 
 **Pemrograman Web - Praktikum 7**
